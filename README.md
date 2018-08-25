@@ -10,7 +10,7 @@ Postal is a machine learning software created for the final project of Machine L
 - SciPy
 - MNIST Dataset
 
-## Author
+## Authors
 
 - Ayush Nath
 - Johann Fernandes
